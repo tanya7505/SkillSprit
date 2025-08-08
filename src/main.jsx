@@ -13,7 +13,7 @@ import RoadmapForm from './components/jorneyWithSkilSprit/LearnAndBuildSkills/Ro
 import Projects from './components/jorneyWithSkilSprit/LearnAndBuildSkills/Projects'
 import Careerprojects from './components/jorneyWithSkilSprit/LearnAndBuildSkills/CareerProjects'
 import StudyResources from './components/jorneyWithSkilSprit/LearnAndBuildSkills/StudyResources'
-import CampusMadeEasy from "./components/journeyWithSkillSprit/campusMadeEasy/CampusMadeEasy";
+import CampusMadeEasy from "./components/jorneyWithSkillSprit/campusMadeEasy/CampusMadeEasy";
 
 const router = createBrowserRouter([
     {
