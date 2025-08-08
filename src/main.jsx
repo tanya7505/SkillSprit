@@ -14,6 +14,7 @@ import Projects from './components/jorneyWithSkilSprit/LearnAndBuildSkills/Proje
 import Careerprojects from './components/jorneyWithSkilSprit/LearnAndBuildSkills/CareerProjects'
 import StudyResources from './components/jorneyWithSkilSprit/LearnAndBuildSkills/StudyResources'
 import CampusMadeEasy from './components/jorneyWithSkilSprit/campusMadeEasy/CampusMadeEasy';
+import Tips from './pages/Tips'
 
 const router = createBrowserRouter([
     {
@@ -59,6 +60,10 @@ const router = createBrowserRouter([
         {
           path:"/campusMadeEasy",
           element: <CampusMadeEasy/>
+        },
+        {
+          path:"/tips",
+          element: <Tips/>
         }
    
       ]

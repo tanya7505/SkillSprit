@@ -14,7 +14,7 @@ export default function Features() {
       title: "College Life Tips",
       desc: "Practical tips & hacks to make your campus life easier.",
       icon: <Lightbulb className="w-10 h-10 text-yellow-600" />,
-      link: "/collegeTips",
+      link: "/Tips",
       bg: "bg-yellow-50",
     },
     {
